@@ -27,7 +27,7 @@ int main() {
     printf("\nMatrix1 : \n");
     for(i=0;i<rows1;i++){
         for(j=0;j<cols1;j++){
-        printf("%d ", Matrix1[i][j]):
+        printf("%d ", Matrix1[i][j]);
     }
     printf("\n");
     }
@@ -49,7 +49,7 @@ int main() {
     printf("\nTranspose of Matrix1 is : \n");
     for(i=0;i<rows3;i++){
         for(j=0;j<cols3;j++){
-    printf("%d ", matrix3[i][j]):
+        printf("%d ", Matrix3[i][j]);
     }
     printf("\n");
     }
